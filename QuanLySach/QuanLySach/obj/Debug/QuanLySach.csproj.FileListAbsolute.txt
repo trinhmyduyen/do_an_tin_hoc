@@ -1,0 +1,42 @@
+C:\Users\Khanh\source\repos\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+C:\Users\Khanh\source\repos\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+C:\Users\Khanh\source\repos\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+C:\Users\Khanh\source\repos\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+C:\Users\Khanh\source\repos\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+C:\Users\Khanh\source\repos\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+C:\Users\Khanh\source\repos\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+E:\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+E:\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+E:\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+E:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+E:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+E:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+E:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.exe
+D:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+D:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.exe
+D:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.pdb
+F:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.exe.config
+F:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.exe
+F:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.pdb
+F:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+F:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+F:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.exe
+F:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.pdb
+H:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.exe.config
+H:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.exe
+H:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.pdb
+H:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+H:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+H:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.exe
+H:\QuanLySach(fix)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.pdb
+C:\Users\TUAN VU\Downloads\QuanLySach(duyen)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.exe.config
+C:\Users\TUAN VU\Downloads\QuanLySach(duyen)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.exe
+C:\Users\TUAN VU\Downloads\QuanLySach(duyen)\QuanLySach(fix)\QuanLySach\bin\Debug\QuanLySach.pdb
+C:\Users\TUAN VU\Downloads\QuanLySach(duyen)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+C:\Users\TUAN VU\Downloads\QuanLySach(duyen)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+C:\Users\TUAN VU\Downloads\QuanLySach(duyen)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.exe
+C:\Users\TUAN VU\Downloads\QuanLySach(duyen)\QuanLySach(fix)\QuanLySach\obj\Debug\QuanLySach.pdb

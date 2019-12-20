@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\trinhmyduyen\doan\doantinhoc\tuan3\tuan3\source.cpp(210): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tuan3.vcxproj -> D:\TrinhMyDuyen\DoAn\DoAnTinHoc\Tuan3\Debug\Tuan3.exe
